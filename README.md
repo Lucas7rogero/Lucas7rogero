@@ -1,4 +1,5 @@
 - 👋 Lucas Rogero
+
   Sou nascido e criado em Mogi Mirim (interior de São Paulo) e desde a minha primeira aula de robótica
   em que tive que **montar e programar** o projeto de um robô, me interessei muito pelas tecnologias e pelo
   mundo moderno. <ins>Adoro acompanhar as inovações, explorar novos gadgets e entender como as coisas funcionam.</ins>
